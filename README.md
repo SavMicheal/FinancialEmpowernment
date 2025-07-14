@@ -1,6 +1,6 @@
 # FinancialEmpowernment - Financial Inclusion & Churn Analysis Project
 
-## 📊 Project Summary
+##  Project Summary
 
 This project explores financial inclusion and user behavior through a simulated database called **InclusiveFinanceDB**. It was inspired by my passion for using data and technology to solve real-world problems — particularly in underserved communities — and aligns with the mission of organizations like **Volition Cap** that aim to democratize wealth creation.
 
@@ -8,7 +8,7 @@ The database simulates community-based financial group structures, user demograp
 
 ---
 
-## 🗂️ Dataset Structure
+##  Dataset Structure
 
 The database consists of 3 main tables:
 
@@ -18,7 +18,7 @@ The database consists of 3 main tables:
 
 ---
 
-## 🔍 Analysis Objectives
+##  Analysis Objectives
 
 - **Churn vs Income Level** – Identify whether lower-income users are more likely to churn.
 - **Churn vs KYC Status** – Explore how failed KYC attempts impact user retention.
@@ -27,7 +27,7 @@ The database consists of 3 main tables:
 
 ---
 
-## ⚙️ Tools Used
+##  Tools Used
 
 - **SQL Server Management Studio (SSMS)** – Data generation, cleaning, and analysis.
 - **T-SQL** – For procedural data manipulation.
@@ -35,13 +35,13 @@ The database consists of 3 main tables:
 
 ---
 
-## 🌍 Why This Matters
+##  Why This Matters
 
 Millions of people remain excluded from formal financial systems. This project simulates a real-world scenario to investigate how data can drive **smarter decision-making**, **inclusive product design**, and **sustainable wealth-building tools**.
 
 ---
 
-## 🚀 Next Steps
+##  Next Steps
 
 - Develop Power BI dashboards to visualize churn trends.
 - Build predictive models for churn using Python (optional).
