@@ -1,4 +1,4 @@
-# FinancialEmpowernment - Financial Inclusion & Churn Analysis Project
+# Financial Inclusion & Churn Analysis Project
 
 ##  Project Summary
 
